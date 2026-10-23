@@ -1,26 +1,27 @@
 # Hey, I'm SilentCipherR 👋
 
-**Student • Competitive Programming (CP) • Systems & AI Infrastructure**
+**Student | Competitive Programming (CP) | Systems & AI Infrastructure**
 
-I'm building strong programming fundamentals through CP while learning how software works closer to the system level. My focus is on steady progress, practical experiments, and understanding the fundamentals-not just collecting tools.
+I'm strengthening my programming fundamentals through competitive programming and exploring how software works closer to the system level. I value consistent practice, hands-on learning, and understanding the fundamentals behind the tools I use.
 
-## What I'm focused on
+## Current Focus
 
-- **Competitive Programming:** problem-solving, algorithms, and writing clear, efficient solutions.
-- **Linux & Git:** learning the command line, development workflows, and version control.
-- **C++ & Systems:** strengthening low-level programming fundamentals.
+- **Competitive Programming:** algorithms, problem-solving, and writing clear, efficient solutions
+- **Linux & Git:** command-line workflows, version control, and development fundamentals
+- **C++ & Systems:** building a stronger foundation in systems-level programming
 
-## Exploring next
+## Exploring Next
 
 - GPU programming
 - CUDA and Triton
 - AI infrastructure and performance engineering
 
-These are learning goals I'm working toward, not claims of expertise.
+## Coding Profiles
 
-## Find me
-
-- [Codeforces](https://codeforces.com/profile/SilentCipherR)
+- [Codeforces](https://codeforces.com/profile/SilentCipherR) · `SilentCipherR`
+- [LeetCode](https://leetcode.com/u/SilentCipherX/) · `SilentCipherX`
+- [AtCoder](https://atcoder.jp/users/SilentCipherR) · `SilentCipherR`
+- [CodeChef](https://www.codechef.com/users/silentcipherx) · `silentcipherx`
 
 ---
 
