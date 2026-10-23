@@ -2,7 +2,7 @@
 
 **Student • Competitive Programming (CP) • Systems & AI Infrastructure**
 
-I'm building strong programming fundamentals through CP while learning how software works closer to the system level. My focus is on steady progress, practical experiments, and understanding the fundamentals—not just collecting tools.
+I'm building strong programming fundamentals through CP while learning how software works closer to the system level. My focus is on steady progress, practical experiments, and understanding the fundamentals-not just collecting tools.
 
 ## What I'm focused on
 
