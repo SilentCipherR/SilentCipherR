@@ -20,7 +20,7 @@ I'm strengthening my programming fundamentals through competitive programming an
 
 - [Codeforces](https://codeforces.com/profile/SilentCipherR) · `SilentCipherR`
 - [LeetCode](https://leetcode.com/u/SilentCipherX/) · `SilentCipherX`
-- [AtCoder](https://atcoder.jp/users/SilentCipherR) · `SilentCipherR`
+- [AtCoder](https://atcoder.jp/users/SilentCipherX) · `SilentCipherX`
 - [CodeChef](https://www.codechef.com/users/silentcipherx) · `silentcipherx`
 
 ---
