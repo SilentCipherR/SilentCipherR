@@ -38,4 +38,3 @@ jobs:
           git add -A .
           git commit -m "chore: update 3d contribution terrain" || exit 0
           git push
-          
