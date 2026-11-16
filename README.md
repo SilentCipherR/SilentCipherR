@@ -72,24 +72,13 @@ I'm a student exploring computer science through algorithms, systems, and hands-
 ## V. THE CHRONICLE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilentCipherR&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d6b875&text_color=c9d1d9&icon_color=d6b875" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentCipherR&layout=compact&hide_border=true&bg_color=0d1117&title_color=d6b875&text_color=c9d1d9" height="165" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SilentCipherR&hide_border=true&background=0D1117&ring=D6B875&fire=D6B875&currStreakLabel=D6B875&sideLabels=C9D1D9&dates=8B949E" height="165" alt="GitHub contribution streak" />
+  <img src="./profile-3d-contrib/profile-imperial.svg" alt="3D Contribution Terrain" />
 </p>
 
 ## VI. THE HONOURS
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SilentCipherR&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophies" />
-</p>
-
-## VII. THE CONTRIBUTION TRAIL
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SilentCipherR/SilentCipherR/output/github-contribution-grid-snake.svg" alt="Contribution graph snake animation" width="100%" />
 </p>
 
 ---
