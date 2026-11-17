@@ -75,15 +75,20 @@ I'm a student exploring computer science through algorithms, systems, and hands-
   <img src="./profile-3d-contrib/profile-imperial.svg" alt="3D Contribution Terrain" />
 </p>
 
-## VI. THE HONOURS
+## VI. TACTICAL METRICS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SilentCipherR&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilentCipherR&theme=dark&background=0d1117&border=E0B853&ring=E0B853&fire=C0392B&currStreakLabel=E0B853" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SilentCipherR&show_icons=true&theme=dark&bg_color=0d1117&border_color=E0B853&title_color=E0B853&icon_color=C0392B&text_color=c9d1d9" alt="GitHub Stats" />
 </p>
 
----
+## VII. THE HONOURS
 
 <p align="center">
-  <i>“Victory belongs to the most persevering.”</i><br/>
-  <sub>— A saying attributed to Napoleon Bonaparte</sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=SilentCipherR&theme=onedark&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
+
+> *"Victory belongs to the most persevering."*  
+> — *A saying attributed to Napoleon Bonaparte*
+> 
